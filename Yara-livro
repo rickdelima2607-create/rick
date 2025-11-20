@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu Livro para Yara</title>
+    <style>
+        body {
+            background: #fce4ec;
+            font-family: Arial;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        .capitulo {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 { text-align: center; }
+    </style>
+</head>
+<body>
+    <h1>Livro para Yara 💖</h1>
+
+    <div class="capitulo">
+        <h2>Capítulo 1 — Como tudo começou</h2>
+        <p>Escreva aqui o começo da história de vocês...</p>
+    </div>
+
+    <div class="capitulo">
+        <h2>Capítulo 2 — O que eu sinto por você</h2>
+        <p>Escreva aqui seus sentimentos...</p>
+    </div>
+
+</body>
+</html>
